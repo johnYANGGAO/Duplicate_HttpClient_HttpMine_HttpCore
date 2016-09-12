@@ -1,0 +1,6 @@
+
+Add this jar below will fix  the problem when using the new version gradle .  Try it ,it works for me ,
+
+dependencies {
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+}
